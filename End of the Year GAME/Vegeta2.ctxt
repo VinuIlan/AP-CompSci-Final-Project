@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Vegeta2()
+comment1.params=lx\ ly
+comment1.target=void\ setLocation(int,\ int)
+comment10.target=int\ lowerBound()
+comment11.params=topX\ bottomY\ left\ bottom
+comment11.target=void\ move(int,\ int,\ boolean,\ boolean)
+comment12.target=int\ getX()
+comment13.target=int\ getY()
+comment14.target=Image\ getImage()
+comment15.params=e
+comment15.target=void\ keyPressed(KeyEvent)
+comment16.params=e
+comment16.target=void\ keyReleased(KeyEvent)
+comment2.target=int\ getAttackPower()
+comment3.params=icon
+comment3.target=int\ getIconWidth(Icon)
+comment4.params=icon
+comment4.target=int\ getIconHeight(Icon)
+comment5.params=pImg
+comment5.target=int\ getP1Num(Image)
+comment6.target=boolean\ isBlocking()
+comment7.target=boolean\ isAttackingR()
+comment8.target=boolean\ isAttackingL()
+comment9.target=int\ rightBound()
+numComments=17

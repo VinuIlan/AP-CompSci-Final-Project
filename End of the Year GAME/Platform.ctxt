@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Platform()
+comment1.params=e
+comment1.target=void\ actionPerformed(ActionEvent)
+comment2.params=g
+comment2.target=void\ paint(Graphics)
+numComments=3

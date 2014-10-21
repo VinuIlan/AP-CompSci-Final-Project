@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Vegeta()
+comment1.target=void\ move()
+comment10.params=e
+comment10.target=void\ keyReleased(KeyEvent)
+comment2.target=boolean\ isBlocking()
+comment3.target=boolean\ isAttacking()
+comment4.target=int\ getX()
+comment5.target=int\ getY()
+comment6.target=Image\ getImage()
+comment7.target=void\ delay()
+comment8.target=void\ vAttack()
+comment9.params=e
+comment9.target=void\ keyPressed(KeyEvent)
+numComments=11

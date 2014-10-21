@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Platform2()
+comment1.params=e
+comment1.target=void\ actionPerformed(ActionEvent)
+comment2.target=void\ collision()
+comment3.target=void\ gameScore()
+comment4.target=void\ runBoard()
+comment5.params=g
+comment5.target=void\ paint(Graphics)
+numComments=6

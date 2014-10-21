@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Piccolo()
+comment1.target=void\ move()
+comment2.target=boolean\ isBlocking()
+comment3.target=boolean\ isAttacking()
+comment4.target=int\ getX()
+comment5.target=int\ getY()
+comment6.target=Image\ getImage()
+comment7.params=e
+comment7.target=void\ keyPressed(KeyEvent)
+comment8.params=e
+comment8.target=void\ keyReleased(KeyEvent)
+numComments=9
